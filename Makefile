@@ -1,6 +1,6 @@
 .PHONY: build smoke
 
-IMAGE ?= ghcr.io/nightwhite/ai-devbox-runtime:0.1.0
+IMAGE ?= ghcr.io/nightwhite/ai-devbox-codex-runtime:0.1.0
 
 build:
 	docker build -t $(IMAGE) .

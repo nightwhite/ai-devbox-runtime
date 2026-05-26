@@ -12,7 +12,7 @@ The image includes:
 ## Image
 
 ```text
-ghcr.io/nightwhite/ai-devbox-runtime:0.1.0
+ghcr.io/nightwhite/ai-devbox-codex-runtime:0.1.0
 ```
 
 ## Local Build
